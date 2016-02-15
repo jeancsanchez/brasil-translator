@@ -1,0 +1,14 @@
+div{
+	display: block;
+}
+
+.line{
+	border: 1px solid black;
+}
+.container-master{
+	width: 80%;
+	height: 100%;
+	padding: 10px 20px 10px 20px;
+	background-color: #fff;
+    position: relative;
+}
